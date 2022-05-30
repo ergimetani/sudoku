@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ValidateSudoku\ValidateSudoku\bin\Debug\net6.0\ValidateSudoku.exe
+C:\Users\user\source\repos\ValidateSudoku\ValidateSudoku\bin\Debug\net6.0\ValidateSudoku.deps.json
+C:\Users\user\source\repos\ValidateSudoku\ValidateSudoku\bin\Debug\net6.0\ValidateSudoku.runtimeconfig.json
+C:\Users\user\source\repos\ValidateSudoku\ValidateSudoku\bin\Debug\net6.0\ValidateSudoku.dll
+C:\Users\user\source\repos\ValidateSudoku\ValidateSudoku\bin\Debug\net6.0\ValidateSudoku.pdb
+C:\Users\user\source\repos\ValidateSudoku\ValidateSudoku\obj\Debug\net6.0\ValidateSudoku.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ValidateSudoku\ValidateSudoku\obj\Debug\net6.0\ValidateSudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ValidateSudoku\ValidateSudoku\obj\Debug\net6.0\ValidateSudoku.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ValidateSudoku\ValidateSudoku\obj\Debug\net6.0\ValidateSudoku.AssemblyInfo.cs
+C:\Users\user\source\repos\ValidateSudoku\ValidateSudoku\obj\Debug\net6.0\ValidateSudoku.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ValidateSudoku\ValidateSudoku\obj\Debug\net6.0\ValidateSudoku.dll
+C:\Users\user\source\repos\ValidateSudoku\ValidateSudoku\obj\Debug\net6.0\refint\ValidateSudoku.dll
+C:\Users\user\source\repos\ValidateSudoku\ValidateSudoku\obj\Debug\net6.0\ValidateSudoku.pdb
+C:\Users\user\source\repos\ValidateSudoku\ValidateSudoku\obj\Debug\net6.0\ValidateSudoku.genruntimeconfig.cache
+C:\Users\user\source\repos\ValidateSudoku\ValidateSudoku\obj\Debug\net6.0\ref\ValidateSudoku.dll
